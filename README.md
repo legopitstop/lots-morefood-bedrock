@@ -1,3 +1,2 @@
-# lots-morefood-bedrock
-Ever thought that Minecraft needed more food? Then this is your pack!
-This pack adds more than 50+ Foods. use to replenish those health and hunger points.
+# Lot's More Food [Bedrock Edition]
+This repo has been moved to a combined repo: [legopitstop/Lots-More-Food-Mods](https://github.com/legopitstop/Lots-More-Food-Mods/tree/main/Lots%20More%20Food%20Addon)
